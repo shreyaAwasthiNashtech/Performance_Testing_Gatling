@@ -1,0 +1,63 @@
+ASSERTION	AAEDAAEDAwAAAAAAAECfQA==
+ASSERTION	AAECAAIEAAAAAAAAwFdA
+RUN	com.gatling.tests.Feeder	feeder	1750701355061	 	3.6.1
+USER	Logging in with some users	START	1750701355663
+REQUEST		Login Request	1750701355677	1750701356644	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	START	1750701356657
+USER	Logging in with some users	END	1750701356657
+REQUEST		Login Request	1750701356657	1750701357564	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701357566
+USER	Logging in with some users	START	1750701358655
+REQUEST		Login Request	1750701358656	1750701359612	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701359613
+USER	Logging in with some users	START	1750701359655
+REQUEST		Login Request	1750701359657	1750701360637	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701360638
+USER	Logging in with some users	START	1750701361654
+USER	Logging in with some users	START	1750701362654
+REQUEST		Login Request	1750701361656	1750701363434	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701363435
+REQUEST		Login Request	1750701362656	1750701363708	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701363710
+USER	Logging in with some users	START	1750701364655
+REQUEST		Login Request	1750701364658	1750701365575	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701365577
+USER	Logging in with some users	START	1750701365655
+REQUEST		Login Request	1750701365657	1750701366622	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701366624
+USER	Logging in with some users	START	1750701367654
+REQUEST		Login Request	1750701367656	1750701368624	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701368626
+USER	Logging in with some users	START	1750701368655
+REQUEST		Login Request	1750701368657	1750701369652	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701369654
+USER	Logging in with some users	START	1750701370654
+REQUEST		Login Request	1750701370656	1750701371595	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701371597
+USER	Logging in with some users	START	1750701371654
+REQUEST		Login Request	1750701371657	1750701372618	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701372619
+USER	Logging in with some users	START	1750701373655
+USER	Logging in with some users	START	1750701374654
+REQUEST		Login Request	1750701373657	1750701374661	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701374662
+REQUEST		Login Request	1750701374656	1750701375591	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701375592
+USER	Logging in with some users	START	1750701376654
+REQUEST		Login Request	1750701376657	1750701377636	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701377638
+USER	Logging in with some users	START	1750701377654
+REQUEST		Login Request	1750701377656	1750701378660	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701378660
+USER	Logging in with some users	START	1750701379654
+REQUEST		Login Request	1750701379657	1750701380610	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701380613
+USER	Logging in with some users	START	1750701380655
+REQUEST		Login Request	1750701380657	1750701381630	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701381632
+USER	Logging in with some users	START	1750701382655
+USER	Logging in with some users	START	1750701383654
+REQUEST		Login Request	1750701382657	1750701383674	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701383675
+REQUEST		Login Request	1750701383656	1750701384595	KO	status.find.in(200,500), but actually found 429
+USER	Logging in with some users	END	1750701384596

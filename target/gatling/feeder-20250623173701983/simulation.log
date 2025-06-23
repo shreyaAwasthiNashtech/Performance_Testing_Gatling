@@ -1,0 +1,153 @@
+ASSERTION	AAEDAAEDAwAAAAAAAMCSQA==
+ASSERTION	AAECAAIEAAAAAAAAwFdA
+RUN	com.gatling.tests.Feeder	feeder	1750700221983	 	3.6.1
+USER	Logging in with some users	START	1750700222648
+USER	Logging in with some users	START	1750700223138
+REQUEST		Login Request	1750700222667	1750700223620	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700223635
+USER	Logging in with some users	START	1750700223638
+REQUEST		Login Request	1750700223141	1750700223988	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700223989
+USER	Logging in with some users	START	1750700224139
+REQUEST		Login Request	1750700223639	1750700224473	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700224475
+USER	Logging in with some users	START	1750700224639
+REQUEST		Login Request	1750700224141	1750700225023	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700225024
+USER	Logging in with some users	START	1750700225635
+USER	Logging in with some users	START	1750700226135
+REQUEST		Login Request	1750700224641	1750700226257	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700226259
+USER	Logging in with some users	START	1750700226636
+USER	Logging in with some users	START	1750700227135
+USER	Logging in with some users	START	1750700227636
+USER	Logging in with some users	START	1750700228636
+USER	Logging in with some users	START	1750700229136
+USER	Logging in with some users	START	1750700229637
+USER	Logging in with some users	START	1750700230135
+USER	Logging in with some users	START	1750700230636
+USER	Logging in with some users	START	1750700231635
+USER	Logging in with some users	START	1750700232135
+USER	Logging in with some users	START	1750700232636
+USER	Logging in with some users	START	1750700233135
+USER	Logging in with some users	START	1750700233637
+REQUEST		Login Request	1750700226639	1750700233700	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700233702
+REQUEST		Login Request	1750700226136	1750700233737	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700233739
+REQUEST		Login Request	1750700227136	1750700233855	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700233857
+USER	Logging in with some users	START	1750700234635
+USER	Logging in with some users	START	1750700235135
+REQUEST		Login Request	1750700225637	1750700235149	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700235150
+REQUEST		Login Request	1750700228638	1750700235309	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700235310
+REQUEST		Login Request	1750700229138	1750700235434	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700235435
+USER	Logging in with some users	START	1750700235636
+REQUEST		Login Request	1750700232638	1750700235748	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700235750
+REQUEST		Login Request	1750700231637	1750700235888	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700235890
+USER	Logging in with some users	START	1750700236135
+REQUEST		Login Request	1750700233137	1750700236218	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700236219
+REQUEST		Login Request	1750700233639	1750700236535	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700236537
+REQUEST		Login Request	1750700234637	1750700236582	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700236584
+USER	Logging in with some users	START	1750700236636
+USER	Logging in with some users	START	1750700237635
+REQUEST		Login Request	1750700230638	1750700237713	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700237715
+USER	Logging in with some users	START	1750700238135
+USER	Logging in with some users	START	1750700238635
+REQUEST		Login Request	1750700236637	1750700238992	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700238993
+USER	Logging in with some users	START	1750700239135
+REQUEST		Login Request	1750700237637	1750700239458	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700239460
+USER	Logging in with some users	START	1750700239636
+REQUEST		Login Request	1750700229639	1750700239647	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700239649
+REQUEST		Login Request	1750700235638	1750700239666	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700239667
+REQUEST		Login Request	1750700232136	1750700239700	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700239702
+REQUEST		Login Request	1750700238638	1750700239912	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700239913
+REQUEST		Login Request	1750700236136	1750700240317	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700240319
+REQUEST		Login Request	1750700239137	1750700240472	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700240474
+USER	Logging in with some users	START	1750700240635
+REQUEST		Login Request	1750700239638	1750700240787	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700240789
+USER	Logging in with some users	START	1750700241135
+USER	Logging in with some users	START	1750700241636
+USER	Logging in with some users	START	1750700242135
+REQUEST		Login Request	1750700230138	1750700242422	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Logging in with some users	END	1750700242425
+USER	Logging in with some users	START	1750700242636
+REQUEST		Login Request	1750700242137	1750700243584	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700243585
+USER	Logging in with some users	START	1750700243635
+USER	Logging in with some users	START	1750700244135
+REQUEST		Login Request	1750700241638	1750700244221	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700244222
+USER	Logging in with some users	START	1750700244635
+USER	Logging in with some users	START	1750700245136
+REQUEST		Login Request	1750700235137	1750700245486	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Logging in with some users	END	1750700245487
+USER	Logging in with some users	START	1750700245636
+REQUEST		Login Request	1750700242638	1750700246000	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700246002
+USER	Logging in with some users	START	1750700246635
+USER	Logging in with some users	START	1750700247135
+USER	Logging in with some users	START	1750700247635
+USER	Logging in with some users	START	1750700248135
+USER	Logging in with some users	START	1750700248635
+REQUEST		Login Request	1750700238137	1750700248986	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Logging in with some users	END	1750700248986
+REQUEST		Login Request	1750700241136	1750700249362	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700249364
+USER	Logging in with some users	START	1750700249635
+USER	Logging in with some users	START	1750700250136
+USER	Logging in with some users	START	1750700250635
+REQUEST		Login Request	1750700244637	1750700250948	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700250950
+USER	Logging in with some users	START	1750700251135
+USER	Logging in with some users	START	1750700251635
+REQUEST		Login Request	1750700240637	1750700251678	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700251680
+REQUEST		Login Request	1750700248636	1750700252076	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252077
+REQUEST		Login Request	1750700227637	1750700252457	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252459
+REQUEST		Login Request	1750700250137	1750700252466	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252467
+REQUEST		Login Request	1750700248136	1750700252487	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252489
+REQUEST		Login Request	1750700247136	1750700252491	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252492
+REQUEST		Login Request	1750700249637	1750700252546	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252547
+REQUEST		Login Request	1750700251136	1750700252872	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252873
+REQUEST		Login Request	1750700251636	1750700252935	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700252937
+REQUEST		Login Request	1750700244137	1750700254234	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700254236
+REQUEST		Login Request	1750700250636	1750700254999	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700255001
+REQUEST		Login Request	1750700245637	1750700255614	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700255615
+REQUEST		Login Request	1750700246637	1750700256116	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700256117
+REQUEST		Login Request	1750700245138	1750700256569	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700256571
+REQUEST		Login Request	1750700247636	1750700259412	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Logging in with some users	END	1750700259413
+REQUEST		Login Request	1750700243637	1750700262983	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750700262984

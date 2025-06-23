@@ -1,0 +1,153 @@
+ASSERTION	AAEDAAEDAwAAAAAAAECPQA==
+ASSERTION	AAECAAIEAAAAAAAAwFdA
+RUN	com.gatling.tests.Feeder	feeder	1750678296140	 	3.6.1
+USER	Logging in with some users	START	1750678297357
+REQUEST		Login Request	1750678297377	1750678297776	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678297794
+USER	Logging in with some users	START	1750678297851
+USER	Logging in with some users	START	1750678298351
+REQUEST		Login Request	1750678297851	1750678298448	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678298450
+USER	Logging in with some users	START	1750678298852
+REQUEST		Login Request	1750678298353	1750678298929	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678298930
+USER	Logging in with some users	START	1750678299352
+REQUEST		Login Request	1750678298854	1750678299391	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678299393
+REQUEST		Login Request	1750678299353	1750678300199	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678300200
+USER	Logging in with some users	START	1750678300349
+USER	Logging in with some users	START	1750678300849
+USER	Logging in with some users	START	1750678301349
+REQUEST		Login Request	1750678300351	1750678301781	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678301783
+USER	Logging in with some users	START	1750678301849
+REQUEST		Login Request	1750678300851	1750678301991	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678301993
+USER	Logging in with some users	START	1750678302349
+REQUEST		Login Request	1750678301350	1750678302668	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678302669
+USER	Logging in with some users	START	1750678303349
+USER	Logging in with some users	START	1750678303848
+USER	Logging in with some users	START	1750678304350
+REQUEST		Login Request	1750678301850	1750678304616	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678303351	1750678304616	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678302351	1750678304616	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678304618
+USER	Logging in with some users	END	1750678304618
+USER	Logging in with some users	END	1750678304618
+USER	Logging in with some users	START	1750678304850
+REQUEST		Login Request	1750678303850	1750678305098	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678305099
+REQUEST		Login Request	1750678304352	1750678305311	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678305314
+USER	Logging in with some users	START	1750678305351
+USER	Logging in with some users	START	1750678306349
+USER	Logging in with some users	START	1750678306849
+USER	Logging in with some users	START	1750678307350
+USER	Logging in with some users	START	1750678307850
+USER	Logging in with some users	START	1750678308351
+REQUEST		Login Request	1750678304852	1750678308442	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678308443
+REQUEST		Login Request	1750678305353	1750678308958	KO	j.n.c.ClosedChannelException
+USER	Logging in with some users	END	1750678308960
+USER	Logging in with some users	START	1750678309349
+REQUEST		Login Request	1750678308354	1750678309446	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678307853	1750678309446	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678309448
+USER	Logging in with some users	END	1750678309448
+REQUEST		Login Request	1750678307353	1750678309474	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678306852	1750678309474	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678309475
+USER	Logging in with some users	END	1750678309475
+REQUEST		Login Request	1750678306350	1750678309513	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678309515
+USER	Logging in with some users	START	1750678309849
+REQUEST		Login Request	1750678309351	1750678309924	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678309926
+REQUEST		Login Request	1750678309852	1750678310317	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678310319
+USER	Logging in with some users	START	1750678310350
+USER	Logging in with some users	START	1750678310849
+USER	Logging in with some users	START	1750678311349
+REQUEST		Login Request	1750678310352	1750678311670	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678311672
+USER	Logging in with some users	START	1750678312349
+REQUEST		Login Request	1750678310850	1750678312362	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678311349	1750678312362	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678312363
+USER	Logging in with some users	END	1750678312363
+USER	Logging in with some users	START	1750678312850
+USER	Logging in with some users	START	1750678313350
+USER	Logging in with some users	START	1750678313849
+REQUEST		Login Request	1750678312852	1750678314105	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678312352	1750678314105	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678313351	1750678314106	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678314107
+USER	Logging in with some users	END	1750678314107
+USER	Logging in with some users	END	1750678314107
+USER	Logging in with some users	START	1750678314349
+USER	Logging in with some users	START	1750678315349
+USER	Logging in with some users	START	1750678315850
+USER	Logging in with some users	START	1750678316350
+REQUEST		Login Request	1750678313851	1750678316620	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678316623
+USER	Logging in with some users	START	1750678316850
+REQUEST		Login Request	1750678315852	1750678317071	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678314351	1750678317072	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678315352	1750678317072	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678317073
+USER	Logging in with some users	END	1750678317073
+USER	Logging in with some users	END	1750678317073
+USER	Logging in with some users	START	1750678317351
+REQUEST		Login Request	1750678316351	1750678317838	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678317840
+USER	Logging in with some users	START	1750678318349
+USER	Logging in with some users	START	1750678318849
+REQUEST		Login Request	1750678316852	1750678319318	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678317353	1750678319318	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678319320
+USER	Logging in with some users	END	1750678319320
+USER	Logging in with some users	START	1750678319350
+USER	Logging in with some users	START	1750678319850
+REQUEST		Login Request	1750678318351	1750678319975	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678319977
+REQUEST		Login Request	1750678318851	1750678320089	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678320091
+REQUEST		Login Request	1750678319351	1750678320186	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678320188
+USER	Logging in with some users	START	1750678320351
+REQUEST		Login Request	1750678319852	1750678320765	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678320766
+REQUEST		Login Request	1750678320352	1750678321278	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678321279
+USER	Logging in with some users	START	1750678321348
+USER	Logging in with some users	START	1750678321849
+USER	Logging in with some users	START	1750678322349
+USER	Logging in with some users	START	1750678322849
+REQUEST		Login Request	1750678321349	1750678322912	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678321850	1750678322912	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678322350	1750678322912	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678322914
+USER	Logging in with some users	END	1750678322914
+USER	Logging in with some users	END	1750678322914
+USER	Logging in with some users	START	1750678323350
+REQUEST		Login Request	1750678322850	1750678323430	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678323432
+USER	Logging in with some users	START	1750678324349
+REQUEST		Login Request	1750678323351	1750678324354	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678324355
+USER	Logging in with some users	START	1750678324849
+USER	Logging in with some users	START	1750678325349
+USER	Logging in with some users	START	1750678325850
+USER	Logging in with some users	START	1750678326351
+REQUEST		Login Request	1750678324351	1750678326601	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678326603
+REQUEST		Login Request	1750678324850	1750678326907	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678326351	1750678326907	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678325851	1750678326907	KO	status.find.in(200,400), but actually found 401
+REQUEST		Login Request	1750678325351	1750678326907	KO	status.find.in(200,400), but actually found 401
+USER	Logging in with some users	END	1750678326909
+USER	Logging in with some users	END	1750678326909
+USER	Logging in with some users	END	1750678326909
+USER	Logging in with some users	END	1750678326909

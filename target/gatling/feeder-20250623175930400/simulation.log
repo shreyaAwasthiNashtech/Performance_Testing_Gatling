@@ -1,0 +1,18 @@
+ASSERTION	AAEDAAEDAwAAAAAAAMCSQA==
+ASSERTION	AAECAAIEAAAAAAAAwFdA
+RUN	com.gatling.tests.Feeder	feeder	1750701570400	 	3.6.1
+USER	Logging in with some users	START	1750701571178
+REQUEST		Login Request	1750701571192	1750701572225	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750701572236
+USER	Logging in with some users	START	1750701575168
+REQUEST		Login Request	1750701575170	1750701576196	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750701576197
+USER	Logging in with some users	START	1750701579167
+REQUEST		Login Request	1750701579170	1750701580189	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750701580191
+USER	Logging in with some users	START	1750701583167
+REQUEST		Login Request	1750701583169	1750701584181	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750701584183
+USER	Logging in with some users	START	1750701587168
+REQUEST		Login Request	1750701587170	1750701588174	KO	status.find.in(200,400), but actually found 429
+USER	Logging in with some users	END	1750701588176

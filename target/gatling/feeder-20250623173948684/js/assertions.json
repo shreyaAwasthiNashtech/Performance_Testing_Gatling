@@ -1,0 +1,27 @@
+{
+  "simulation": "com.gatling.tests.Feeder",
+  "simulationId": "feeder",
+  "start": 1750700388684,
+  "description": "",
+  "scenarios": ["Logging in with some users"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "mean of response time",
+  "condition": "is less than",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "Global: mean of response time is less than 1000.0",
+  "actualValue": [464.0]
+},
+{
+  "path": "Global",
+  "target": "percentage of successful events",
+  "condition": "is greater than",
+  "expectedValues": [95.0],
+  "result": false,
+  "message": "Global: percentage of successful events is greater than 95.0",
+  "actualValue": [0.0]
+}
+  ]
+}
